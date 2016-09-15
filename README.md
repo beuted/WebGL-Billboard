@@ -3,4 +3,4 @@ WebGL experimentations
 
 I tryed to do something scarry ended up with something weirdy
 
-##[demo](http://perso.csgo-mates.com/WebGL-BillBoard)
+##[demo](https://webgl-billboard.herokuapp.com)
